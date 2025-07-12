@@ -11,7 +11,7 @@ This repo consists of PowerBI work made from public datasets for demonstration p
 
 <img width="956" height="536" alt="image" src="https://github.com/user-attachments/assets/03c5369d-4177-4edc-b77c-f5134228ae53" />
 
-## Project_TimeLine Report
+## Project TimeLine Report
 **Overview:** This dashboard evaluates project completion and budget performance across regions and risk levels, offering insights into average profit, estimated budgets, and project durations.
 
 **Key Metrics:** Displays overall averages for actual profit, estimated budget, total project duration, and the percentage of time spent on construction. Summary statistics are enhanced with conditional formatting, and slicers allow users to view the performance of each group independently.
